@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850695277832",
+    "project_id": "kanaflow-a9ada",
+    "storage_bucket": "kanaflow-a9ada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850695277832:android:e3abdfecaa1bdad7ca30bd",
+        "android_client_info": {
+          "package_name": "com.kanaflow.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZo092VQoYJsTImmhoNiS28rrXqf01rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
