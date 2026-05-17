@@ -9,7 +9,7 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
 
-private val KanaFlowColorScheme = darkColorScheme(
+private val JIKanaColorScheme = darkColorScheme(
     // Primary — sky blue
     primary = SkyBlue,
     onPrimary = TextOnBlue,
@@ -40,10 +40,10 @@ private val KanaFlowColorScheme = darkColorScheme(
 )
 
 @Composable
-fun KanaFlowTheme(
+fun JIKanaTheme(
     content: @Composable () -> Unit
 ) {
-    val colorScheme = KanaFlowColorScheme
+    val colorScheme = JIKanaColorScheme
     val view = LocalView.current
 
     if (!view.isInEditMode) {
@@ -60,7 +60,7 @@ fun KanaFlowTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = KanaFlowTypography,
+        typography = JIKanaTypography,
         content = content
     )
 }

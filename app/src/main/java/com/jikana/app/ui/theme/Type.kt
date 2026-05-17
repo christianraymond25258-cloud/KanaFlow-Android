@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
-val KanaFlowTypography = Typography(
+val JIKanaTypography = Typography(
     // Large display — used for big kana characters
     displayLarge = TextStyle(
         fontFamily = FontFamily.Default,

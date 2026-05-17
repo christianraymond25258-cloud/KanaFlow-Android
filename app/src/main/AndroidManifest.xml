@@ -10,7 +10,7 @@
         android:label="JIKana"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KanaFlow">
+        android:theme="@style/Theme.JIKana">
         <activity
             android:name=".MainActivity"
             android:exported="true"

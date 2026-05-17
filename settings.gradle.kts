@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KanaFlow"
+rootProject.name = "JIKana"
 include(":app")
