@@ -7,12 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:850695277832:android:e3abdfecaa1bdad7ca30bd",
+        "mobilesdk_app_id": "1:850695277832:android:0b48d88951ff42f6ca30bd",
         "android_client_info": {
-          "package_name": "com.kanaflow.app"
+          "package_name": "com.jikana.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "850695277832-vp2916h1n0lmnfl4f2k9klrcdp9uda8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCWZo092VQoYJsTImmhoNiS28rrXqf01rA"
@@ -20,7 +25,41 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850695277832-vp2916h1n0lmnfl4f2k9klrcdp9uda8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850695277832:android:e3abdfecaa1bdad7ca30bd",
+        "android_client_info": {
+          "package_name": "com.kanaflow.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850695277832-vp2916h1n0lmnfl4f2k9klrcdp9uda8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZo092VQoYJsTImmhoNiS28rrXqf01rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850695277832-vp2916h1n0lmnfl4f2k9klrcdp9uda8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

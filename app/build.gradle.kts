@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.kanaflow.app"
+    namespace = "com.jikana.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.kanaflow.app"
+        applicationId = "com.jikana.app"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
